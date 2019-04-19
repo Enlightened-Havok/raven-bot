@@ -1,0 +1,45 @@
+{
+    "HV <channel ID>" : {
+        "name": "#hallowed-vanguard-crows-nest",
+        "plane": "selnata",
+        "x": 2.43,
+        "y": 3.87
+    }, 
+    "H <channel ID>" : {
+        "name": "#harbor-crows-nest",
+        "plane": "selnata",
+        "x" : 4.00,
+        "y" : 3.94
+    }, 
+    "DT <channel ID>" : {
+        "name": "#dennys-tavern-crows-nest",
+        "plane": "selnata",
+        "x" : 4.17,
+        "y" : 3.21
+    }, 
+    "MH <channel ID>" : {
+        "name": "#misted-halls-crows-nest",
+        "plane": "selnata",
+        "x" : 4.16,
+        "y" : 3.94
+    }, 
+    "OB <channel ID>" : {
+        "name": "#oathbreakers-crows-nest",
+        "plane": "selnata",
+        "x" : 3.37,
+        "y" : 1.21
+    }, 
+    "SF <channel ID>" : {
+        "name": "#scarlet-feast-crows-nest",
+        "plane": "selnata",
+        "x" : 2.92,
+        "y" : 2.92
+    }, 
+    "OoTM <channel ID>" : {
+        "name": "#order-of-the-morning-crows-nest",
+        "plane": "selnata",
+        "x" : 3.85,
+        "y" : 2.69
+    }
+
+}

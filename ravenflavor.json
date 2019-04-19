@@ -1,0 +1,69 @@
+{
+    "Ravens" : {
+        "Darius" : {
+            "Arrival" : "A small, sleek crow wings in quietly, alighting on its perch. Its black, beedy eyes scan the room slowly.",
+            "Removal" : "The crow nods its head slightly as the note is taken, watching the handler carefully",
+            "Departure" : "Your note is attached to a small, sleek crow. It carefully spreads its wings, then disappears into the sky quickly."
+        },"John" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Helena" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Gretta" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Sam" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Seriphil" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Fredlis" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Phillis" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Ranna" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Osiris" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Hermes" : {
+            "Arrival" : "",
+            "Removal" : "",
+            "Departure" : ""
+        },"Brick" : {
+            "Arrival" : "A raven plops into the room with the grace of a brick being dropped, slamming against the floor with a cloud of feathers. It lets out an earsplitting screech, beady eyes staring wildly at any who approach.",
+            "Removal" : "The raven begins to violently squirm and screech on the ground as the note is removed, before forcing itself to its feet, limply winging up to a perch and shoving off its current occupant with a squawk.",
+            "Departure" : "This raven lets out a choked cry, then pitches forward and coughs out a long black feather. Then, without another word, the disheleveled bird lifts into the air and bobs into the sky with your message."
+        }
+        
+
+
+
+
+
+
+
+
+    }
+
+    
+
+
+
+
+
+}

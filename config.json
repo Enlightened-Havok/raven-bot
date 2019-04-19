@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "prefix": "?",
+    "birdspeed": 50,
+    "maxrange" : 1100,
+    "resttime" : 8,
+    "timediv" : 60,
+    "lostchance" : 0.005,
+    "randdeviation" : 5
+}
